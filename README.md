@@ -1,4 +1,4 @@
-# O meu primeiro repo
+# O meu primeiro repo (Jorge Cerqueira)
 
 ![Fallou a imaxe](/logo.png)
 
